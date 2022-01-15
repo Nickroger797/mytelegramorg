@@ -1,11 +1,12 @@
 class Translation(object):
     START_TEXT = """Hola🤞!
 I am Telegram Api-id and Api-Hash Scrapper. 
-IF you Dont believe The dev of this bot dont use this bot and use my.telegram.org 
+
+™️IF you Dont believe The dev of this bot dont use this bot and use my.telegram.org 
 Now Send Your phone Number to get api details. 
 If Bot stops when the way of halfly getting api details please ensure to type /start. 
 I am Also Working Along With @TeleRoidSessionBot For Generating Pyrogram And TeleThon Session String. 
-Thanks For using this Bot. 
+<b>Thanks For using this Bot⚙️.</b>
 
 """
     AFTER_RECVD_CODE_TEXT = """okay,
