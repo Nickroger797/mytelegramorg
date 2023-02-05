@@ -59,6 +59,11 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
+<b># Admin Commands
+- [x] /broadcast - ᴛᴏ ʙʀᴏᴀᴅᴄᴀꜱᴛ ᴀ ᴍᴇꜱꜱᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜꜱᴇʀꜱ
+
+- [x] /group_broadcast - ᴛᴏ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀʟʟ ᴄᴏɴɴᴇᴄᴛᴇᴅ ɢʀᴏᴜᴘs
+
 ## [Support Group](https://telegram.dog/teleroid14)
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
