@@ -7,14 +7,14 @@ class Config:
     TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", None)
     # required for running on Heroku
     URL = os.environ.get("URL", "")
-    PORT = int(os.environ.get("PORT", 5000))
+    PORT = int(os.environ.get("PORT", 8080))
     # Python3 ReQuests CHUNK SIZE
     CHUNK_SIZE = 10280
     # MyTelegram.org
     # configurtion required while creating new application
     APP_TITLE = os.environ.get("APP_TITLE", "usetgbot")
     APP_SHORT_NAME = os.environ.get("APP_SHORT_NAME", "usetgbot")
-    APP_URL = os.environ.get("APP_URL", "https://telegram.dog/TGDXBot")
+    APP_URL = os.environ.get("APP_URL", "https://telegram.dog/Details_finder_bot")
     # these platform informations were obtained
     # on 27.01.2020 21:15:50 IST
     APP_PLATFORM = [
@@ -29,13 +29,13 @@ class Config:
     ]
     # if any of the platform, does not work
     # please reopen
-    # https://github.com/SpEcHiDe/MyTelegramOrgRoBot/issues/3
+    # https://github.com/Nickroger797/mytelegramorg/issues/3
     APP_DESCRIPTION = os.environ.get(
         "APP_DESCRIPTION",
-        "created using https://telegram.dog/UseTGxBot"
+        "created using https://telegram.dog/Details_finder_bot"
     )
     #
-    FOOTER_TEXT = os.environ.get("FTEXT", "Made With ❤ By @TheTeleRoid")
+    FOOTER_TEXT = os.environ.get("FTEXT", "Made With ❤ By @mdiskbot200")
     # the strings used in the different messages
     # in the bot
     START_TEXT = os.environ.get("START_TEXT", Translation.START_TEXT)
