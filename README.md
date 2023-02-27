@@ -29,12 +29,12 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 - clone the repository, locally.
 ```sh
-git clone https://github.com/MR-JINN-OF-TG/MyTelegramOrgRoBot.git
+git clone https://github.com/Nickroger797/mytelegramorg.git
 ```
 
 - change the directory.
 ```sh
-cd MyTelegramOrgRoBot
+cd mytelegramorg
 ```
 
 - create a virtual environment.
